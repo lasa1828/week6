@@ -1,0 +1,83 @@
+li {
+  display: list-item;
+}
+ul {
+  list-style-type: none;
+}
+h2 {
+  text-align: center;
+  padding-top: 50px;
+}
+p {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+  color: #ff89c0;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: #ff89c0;
+  position: relative;
+  right: 50px;
+  top: 40px;
+}
+form {
+  position: relative;
+  left: 50em;
+}
+body {
+  background-color: #fcfefe;
+}
+footer {
+  font-weight: lighter;
+  font-size: 10px;
+  margin-left: 0px;
+}
+a {
+  color: black;
+}
+.degree {
+  font-size: 10px;
+  position: relative;
+  top: -15px;
+  text-decoration: none;
+}
+
+.temp2 {
+  font-weight: bold;
+}
+.rain-info {
+  font-weight: lighter;
+  color: grey;
+  margin-left: 0px;
+  padding-top: 40px;
+}
+.hum-info {
+  font-weight: lighter;
+  color: grey;
+  margin-left: 0px;
+}
+.wind-info {
+  font-weight: lighter;
+  color: grey;
+  margin-left: 0px;
+}
+.temp {
+  text-align: center;
+  font-size: 25px;
+}
+.fas {
+  font-size: 125px;
+  color: #dbd8e3;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.col-2 {
+  padding: 25px;
+  width: 10%;
+}
